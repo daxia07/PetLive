@@ -1,0 +1,2 @@
+This project will contain several sub projects. ListView with cursoradapter, database content provider, Mapview to show maps;
+There will also need HTTP clients for data exchanging
